@@ -25,11 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="100"/>
 </div>
 
-### Languages and Tools:
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-
 ### 📌 Recent Projects
 | Name | Description | Link App |
 |------|-------------|------|
