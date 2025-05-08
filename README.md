@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="100"/>
 </div>
 
-<img src="https://media.giphy.com/media/l0HlRmU4cQVRZKq6E/giphy.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/username/repo-name/main/rocket.svg" />
 
 ### 📌 Recent Projects
 | Name | Description | Link App |
