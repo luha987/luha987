@@ -1,11 +1,6 @@
-<div id="header" align="center">
-  ### Hi there 👋, I'm Nuraji
-  I'm a passionate Flutter developer and open source enthusiast 🚀
-</div>
-
-### Hi there 👋, I'm Nuraji
+### <center>Hi there 👋, I'm Nuraji</center>
 I'm a passionate Flutter developer and open source enthusiast 🚀
-
+<center>Hi there 👋, I'm Nuraji</center>
 ### Languages and Tools:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
