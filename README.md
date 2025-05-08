@@ -1,4 +1,4 @@
-### Hi there 👋, I'm John Doe
+### Hi there 👋, I'm Nuraji
 I'm a passionate Flutter developer and open source enthusiast 🚀
 
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luha987&show_icons=true&theme=tokyonight)
@@ -7,18 +7,9 @@ I'm a passionate Flutter developer and open source enthusiast 🚀
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
 
-<!--
-**luha987/luha987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Recent Projects
+| Name | Description | Link App |
+|------|-------------|------|
+| FinanzApp | Financial Apps on Play Store | [Repo](https://play.google.com/store/apps/details?id=com.nuraji.finanzapp&pcampaignid=web_share) |
