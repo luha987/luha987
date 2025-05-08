@@ -4,6 +4,9 @@
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
 </p>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
+
+
 ### Languages and Tools:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
