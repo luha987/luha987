@@ -7,9 +7,11 @@ I'm a passionate Flutter developer and open source enthusiast 🚀
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### 📌 Recent Projects
 | Name | Description | Link App |
 |------|-------------|------|
-| FinanzApp | Financial Apps on Play Store | [Repo](https://play.google.com/store/apps/details?id=com.nuraji.finanzapp&pcampaignid=web_share) |
+| FinanzApp | Financial Apps on Play Store | [Play Store](https://play.google.com/store/apps/details?id=com.nuraji.finanzapp&pcampaignid=web_share) |
