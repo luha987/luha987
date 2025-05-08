@@ -40,7 +40,7 @@
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/huaibovip/huaibovip/assets/images/github.webp">
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luha987&theme=high-contrast&bg_color=FF000000&hide_border=true" alt="Activity"/>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luha987&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
 ### 📌 Recent Projects
